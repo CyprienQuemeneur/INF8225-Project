@@ -22,6 +22,10 @@ ResNeSt is an architecture of neural networks, applied to computer vision, propo
 
 ### **Image classification**
 
+As a baseline model, a ResNeSt is trained for image classification. The notebook _ResNeSt_classification.ipynb_  reproduces the experiments on the ImageNet dataset, using the pretrained models made available by the authors of the original article (all rights reserved). Furthermore, we additionaly examine the influence of the batch size on the final results and reproduce the ablation study conducted in the original article.
+
+A complete guideline is found in the notebook, however **the results and conclusions are found in the final report, which is written under an article format**.
+
 ### **Transfer learning**
 
 ResNeSts can be trained as a general model on image classification then fine-tuned on more downstream tasks (aka transfer learning). The notebook _ResNeSt_TransferLearning.ipynb_  reproduces the experiments on semantic segmentation, instance segmentation and object detection, using the pretrained models made available by the authors of the original article (all rights reserved).
