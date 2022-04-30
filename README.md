@@ -14,7 +14,7 @@
 
 ### **Abstract**
 
-In this work, we present a reproducibility study of the paper _ResNeSt: Split-Attention Networks_. We have succesfully replicated the results presented in the article on the tasks of image classification, semantic segmentation and object detection. The ablation study and transfer learning experiments were also reproduced and the author's claims have been verified. We draw the conclusion that ResNeSts are indeed a substantial improvement over ResNets and could replace them in most cases.
+In this work, we present a reproducibility study of the paper _ResNeSt: Split-Attention Networks_. We have successfully replicated the results presented in the article on the tasks of image classification, segmentation and object detection. The ablation study and transfer learning experiments were also reproduced and the author's claims have been verified. We draw the conclusion that ResNeSts are indeed a substantial improvement over ResNets and could replace them in most cases.
 
 ### **Overview**
 
@@ -22,7 +22,7 @@ ResNeSt is an architecture of neural networks, applied to computer vision, propo
 
 ### **Image classification**
 
-As a baseline model, a ResNeSt is trained for image classification. The notebook _ResNeSt_classification.ipynb_  reproduces the experiments on the ImageNet dataset, using the pretrained models made available by the authors of the original article (all rights reserved). Furthermore, we additionaly examine the influence of the batch size on the final results and reproduce the ablation study conducted in the original article.
+As a baseline model, a ResNeSt is trained for image classification. The notebook _ResNeSt_classification.ipynb_  reproduces the experiments on the ImageNet dataset, using the pretrained models made available by the authors of the original article (all rights reserved). Furthermore, we additionally examine the influence of the batch size on the final results and reproduce the ablation study conducted in the original article.
 
 A complete guideline is found in the notebook, however **the results and conclusions are found in the final report, which is written under an article format**.
 
@@ -36,7 +36,7 @@ A complete guideline and some analyses are found in the notebook. **However it i
 
 ### **Discussion**
 
-This project is not akin to the projects we have conducted to this day. We tried to be original and didn't develop a model ourselves per se. Ultimately, this project was less about coding, as done in practical works, and more about navigating the complex documentation, divided amongst many repositories and websites, of a state of the art deep learning model and exploring real-world datasets and frameworks. Consequently, the experiments were also more computationally intensive when compared to what we are used to, and we had to remain modest in our protocol. Moreover, this was also an opportunity for us to get more accustomed to more downstream computer vision tasks, with whom we were not necessarily familiar. All in all this project taught us a lot and we hope it will be to your liking.
+This project is not akin to the projects we have conducted to this day. We tried to be original and didn't develop a model ourselves per se. Ultimately, this project was less about coding, as done in practical works, and more about navigating the complex documentation, divided amongst many repositories and websites, of a state-of-the-art deep learning model and exploring real-world datasets and frameworks. Consequently, the experiments were also more computationally intensive when compared to what we are used to, and we had to remain modest in our protocol. Moreover, this was also an opportunity for us to get more accustomed to more downstream computer vision tasks, with whom we were not necessarily familiar. All in all this project taught us a lot and we hope it will be to your liking.
 
 
 ### **References**
