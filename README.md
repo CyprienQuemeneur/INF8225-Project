@@ -27,7 +27,7 @@ ResNeSt is an architecture of neural networks, applied to computer vision, propo
 
 ResNeSts can be trained as a general model on image classification then fine-tuned on more downstream tasks (aka transfer learning). The notebook _ResNeSt_TransferLearning.ipynb_  reproduces the experiments on semantic segmentation, instance segmentation and object detection, using the pretrained models made available by the authors of the original article (all rights reserved).
 
-A complete guideline and some analyses are found in the notebook. **However it does not substitute the final report, which written under an article format.**
+A complete guideline and some analyses are found in the notebook. **However it does not substitute the final report, which is written under an article format.**
 
 ### **Disclaimer**
 
@@ -51,3 +51,8 @@ References to the datasets:
 Other relevant references:
 * [PyTorch-Encoding for semantic segmentation](https://hangzhang.org/PyTorch-Encoding/model_zoo/segmentation.html)
 * [GluonCV toolkit for segmentation](https://cv.gluon.ai/model_zoo/segmentation.html)
+
+### **Additional links**
+* [Original project proposal](https://drive.google.com/file/d/1bUFPHQVaruLdaGRoMs8sUy3j7MxUNEFn/view?usp=sharing)
+* [Mid-project video presentation](https://drive.google.com/file/d/1b_tTK4U43sqDPoSfZIHlQlq5FmQVfShV/view)
+* [Mid-project slides](https://docs.google.com/presentation/d/1OOntCfKOc4PJQYAgF1DrbPcqWN2mSw5j/edit?rtpof=true&sd=true)
