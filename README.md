@@ -8,6 +8,31 @@
 
 Emilie Ouraou, Cyprien Quéméneur, Hugo Rodet
 
+| Name     | Email          |
+| -------- | -------------- |
+| Emilie Ouraou     | emilie.ouraou@polymtl.ca |
+| Cyprien Quéméneur | cyprien.quemeneur@polymtl.ca |
+| Hugo Rodet        | hugo.rodet@polymtl.ca |
+
+### **Abstract**
+
+In this work, we present a reproducibility study of the paper _ResNeSt: Split-Attention Networks_. We have succesfully replicated the results presented in the article on the tasks of image classification, semantic segmentation and object detection. The ablation study and transfer learning experiments were also reproduced and the author's claims have been verified. We draw the conclusion that ResNeSts are indeed a substantial improvement over ResNets and could replace them in most cases.
+
+### **Overview**
+ResNeSt is an architecture of neural networks, applied to computer vision, proposing a mix between a modern convolutive neural network (CNN), the ResNest, as well as the attention mechanism. For our final project we propose a study of the article which introduced the ResNeSts. This work indirectly follows our article presentation which focused on vision transformers (ViTs).
+
+### **Image classification**
+
+### **Transfer learning**
+
+ResNeSts can be trained as a general model on image classification then fine-tuned on more downstream tasks (aka transfer learning). The notebook _ResNeSt_TransferLearning.ipynb_  reproduces the experiments on semantic segmentation, instance segmentation and object detection, using the pretrained models made available by the authors of the original article (all rights reserved).
+
+A complete guideline and some analyses are found in the notebook. **However it does not substitute the final report, which written under an article format.**
+
+### **Disclaimer**
+
+Opening the notebooks directly into GitHub will display the entire content of the cells, as they are extremely lengthy this will severely complexify the reading of the notebook. We strongly encourage you to download this file locally and open it with jupyter before attempting to examine it.
+
 ### **References**
 Reference to the main article:
 * [ResNeSt: Split-Attention Networks](https://arxiv.org/abs/2004.08955)
@@ -23,6 +48,6 @@ References to the datasets:
 * [COCO](https://cocodataset.org/#home)
 * [CityScapes](https://www.cityscapes-dataset.com/)
 
-Other references:
+Other relevant references:
 * [PyTorch-Encoding for semantic segmentation](https://hangzhang.org/PyTorch-Encoding/model_zoo/segmentation.html)
 * [GluonCV toolkit for segmentation](https://cv.gluon.ai/model_zoo/segmentation.html)
