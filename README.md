@@ -57,3 +57,4 @@ Other relevant references:
 * [Original project proposal](https://drive.google.com/file/d/1bUFPHQVaruLdaGRoMs8sUy3j7MxUNEFn/view?usp=sharing)
 * [Mid-project video presentation](https://drive.google.com/file/d/1b_tTK4U43sqDPoSfZIHlQlq5FmQVfShV/view)
 * [Mid-project slides](https://docs.google.com/presentation/d/1OOntCfKOc4PJQYAgF1DrbPcqWN2mSw5j/edit?rtpof=true&sd=true)
+* [Final report and slides](https://drive.google.com/drive/folders/1Drc5JKEhdDWyBesZNelBS8XefGZENRBL?usp=sharing)
