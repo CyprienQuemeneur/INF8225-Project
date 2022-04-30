@@ -36,6 +36,7 @@ A complete guideline and some analyses are found in the notebook. **However it i
 
 ### **Discussion**
 
+This project is not akin to the projects we have conducted to this day. We tried to be original and didn't develop a model ourselves per se. Ultimately, this project was less about coding, as done in practical works, and more about navigating the complex documentation, divided amongst many repositories and websites, of a state of the art deep learning model and exploring real-world datasets and frameworks. Consequently, the experiments were also more computationally intensive when compared to what we are used to, and we had to remain modest in our protocol. Moreover, this was also an opportunity for us to get more accustomed to more downstream computer vision tasks, with whom we were not necessarily familiar. All in all this project taught us a lot and we hope it will be to your liking.
 
 
 ### **References**
